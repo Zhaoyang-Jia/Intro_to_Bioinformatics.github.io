@@ -2176,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/head_try3-v2.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2448,6 +2448,8 @@ input, select, textarea {
 
 	#main {
 		margin-bottom: 0;
+		margin-left: 100px;
+		margin-right: 100px;
 	}
 
 		#main section:first-of-type {
